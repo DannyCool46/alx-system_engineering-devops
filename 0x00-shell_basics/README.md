@@ -1,2 +1,2 @@
 #!/bin/bash
-file 8 deletes the file betty  
+file 9 deletes the directory my_first_directory that is in the /tmp directory. 
