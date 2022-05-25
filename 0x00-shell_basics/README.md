@@ -1,2 +1,2 @@
 #!/bin/bash
-file 3 list items with their details   
+file 4 list hidden items with their details  
