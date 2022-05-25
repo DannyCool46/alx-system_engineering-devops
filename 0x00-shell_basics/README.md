@@ -1,2 +1,2 @@
 #!/bin/bash
-file 4 list hidden items with their details  
+file 5 list IDs of users and groups of a file  
