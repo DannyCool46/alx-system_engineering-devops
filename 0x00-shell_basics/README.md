@@ -1,2 +1,2 @@
 #!/bin/bash
-file 14  creates a script that copies all the HTML files from the current working directory to the parent of the wd 
+file 15  creates a script that moves all files beginning with an uppercase letter to the directory /tmp/u 
