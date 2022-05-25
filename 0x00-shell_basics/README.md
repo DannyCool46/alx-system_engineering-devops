@@ -1,2 +1,2 @@
 #!/bin/bash
-file 2 change directory to home  
+file 3 list items with their details   
