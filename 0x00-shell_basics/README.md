@@ -1,2 +1,2 @@
 #!/bin/bash
-file 12 writes a script that prints the type of the file named iamafile 
+file 13 creates a symbolic link to /bin/ls, named ls 
