@@ -1,2 +1,2 @@
 #!/bin/bash
-file 17 creates a script that creates the directories welcome/, welcome/to/ and welcome/to/holberton in the current d.
+writes a command that lists all the files and directories of the current directory, separated by commas (,)
