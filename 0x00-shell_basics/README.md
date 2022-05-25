@@ -1,2 +1,2 @@
 #!/bin/bash
-file 1 list the items in the working directory 
+file 2 change directory to home  
