@@ -1,2 +1,2 @@
 #!/bin/bash
-file 7  moves the file betty from /tmp/ to /tmp/my_first_directory  
+file 8 deletes the file betty  
