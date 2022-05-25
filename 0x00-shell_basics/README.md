@@ -1,2 +1,2 @@
 #!/bin/bash
-file 10 writes a script that changes the working directory to the previous one. 
+file 11 writes a script that lists all files (even ones with names beginning with a period character, which are normally hidden). 
