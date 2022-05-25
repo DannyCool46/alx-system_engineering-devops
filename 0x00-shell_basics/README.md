@@ -1,2 +1,2 @@
 #!/bin/bash
-file 6 creates a script that creates a directory named holberton in the /tmp/ directory  
+file 7  moves the file betty from /tmp/ to /tmp/my_first_directory  
