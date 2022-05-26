@@ -1,2 +1,2 @@
 #!/bin/bash
-file 6 script that adds execute permission to the owner and the group own
+file 7 Write a script that adds execution permission to the owner, the group owner and the other users
