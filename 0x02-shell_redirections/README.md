@@ -1,2 +1,2 @@
 #!/bin/bash
-file 20 Create a script that removes all letters c and C from input
+file 21 Write a script that reverse its input.
