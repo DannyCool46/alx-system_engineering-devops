@@ -1,2 +1,2 @@
 #!/bin/bash
-file 5 Display the first 10 lines of /etc/passwd
+file 6 Write a script that displays the third line of the file iacta
