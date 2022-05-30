@@ -1,2 +1,2 @@
 #!/bin/bash
-file 19 Replace all characters A and c from input to Z and e respectively
+file 20 Create a script that removes all letters c and C from input
