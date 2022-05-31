@@ -1,2 +1,2 @@
 #!/bin/bash
-file 5 Create a script that lists all local variables and environment variables, and functions.
+file 6 Create a script that creates a new local variable, name BEST, value SCHOOL
