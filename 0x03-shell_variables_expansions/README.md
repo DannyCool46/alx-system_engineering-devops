@@ -1,2 +1,2 @@
 #!/bin/bash
-file 9 Write a script that prints the result of POWER divided by DIVIDE, followed by a new line. POWER and DIVIDE are environment variables.
+file 10 Write a script that displays the result of BREATH to the power LOVE, BREATH and LOVE are environment variables
